@@ -1,5 +1,5 @@
 # Town_Team_Sales_Analysis
-This project presents a sales over months from 2019 to 2020 for a Clothing Company using Excel to derive insights from sales data, including product performance, order types, yearly trends, and category breakdowns.
+This project presents sales data from 2019 to 2020 for a clothing company, analyzed using Excel to derive insights on product performance, order types, monthly and yearly trends, and category breakdowns.
 
 I analyzed top-selling items, compared in-store vs. online sales, tracked yearly sales trends, and highlighted category-wise sales distribution to understand customer preferences and product demand.
 
