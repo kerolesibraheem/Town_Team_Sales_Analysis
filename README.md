@@ -35,7 +35,7 @@ Lowest Selling Items:
 
  The decline in 2021 may indicate reduced demand or operational disruptions (e.g., COVID-19 impact).
 
-## Sales by Order Type
+## Sales Distribution by Order Type
 - On-Shop (In-store): $919,150 (93% of total sales)
 
 - Online Orders: $67,650 (7%)
