@@ -2,6 +2,13 @@
 ## Project Summary
 This project presents a sales Analysis Dashboard from 2019 to 2020 for a clothing company built using Excel to derive insights on product performance, order types, monthly and yearly trends, and category breakdowns.
 
+## Data Cleaning & Preparation
+- Ensured data accuracy and consistency.
+
+- Handled missing values and duplicates.
+
+- Unified date and currency formats for smooth analysis.
+
 ## Key Insights
 - Total Sales: $986,800
 
