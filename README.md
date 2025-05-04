@@ -60,9 +60,7 @@ Casual wear drives the majority of sales, suggesting a consumer preference trend
 
 - PivotTables
 
-- Bar, Line, and Pie Charts
 
-- Slicers for Year-wise Filtering
 
 
 
