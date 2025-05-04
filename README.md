@@ -55,8 +55,8 @@ Pie chart shows distribution among:
 
 Casual wear drives the majority of sales, suggesting a consumer preference trend.
 
-Tools & Techniques
-Microsoft Excel
+## Tools & Techniques
+- Microsoft Excel
 
 - PivotTables
 
