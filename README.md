@@ -42,7 +42,7 @@ Lowest Selling Items:
 
  Indicates strong in-store performance but a potential opportunity to scale online channels.
 
-## Sales by Category
+## Sales Distribution by Category
 Pie chart shows distribution among:
 
 - Casual Wear (dominant)
