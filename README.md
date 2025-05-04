@@ -20,7 +20,7 @@ Top 3 Best-Selling Items:
 
 - T-shirt: $121,900
 
-Lowest Performing Items:
+Lowest Selling Items:
 
 - Wallet: $35,800
 
