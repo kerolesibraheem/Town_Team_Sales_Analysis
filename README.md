@@ -26,7 +26,7 @@ Lowest Selling Items:
 
 - Chain: $31,800
 
-## Sales Trend (Yearly)
+## Yearly Sales Trend Overview
 - 2019: $350,850
 
 - 2020: $358,250 (slight growth)
